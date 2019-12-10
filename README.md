@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+参考https://github.com/TangSY/vue-hash-calendar 根据需求做了一些修改，做了一个基于vue的日历组件，支持上滑展示周历，下滑展示日历。
+
 ## Build Setup
 
 ``` bash
